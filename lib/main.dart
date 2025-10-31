@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:app_todo/auth/register_scene.dart';
 import 'package:app_todo/todo/todo_scene.dart';
-import 'package:app_todo/profile_scene.dart';
+import 'package:app_todo/profile/profile_scene.dart';
 import 'package:app_todo/statistic_scene.dart';
 import 'package:app_todo/models/user_model.dart';
 
